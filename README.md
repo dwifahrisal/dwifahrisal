@@ -37,14 +37,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-<div align="left">
-
-</div>
-
----
-
 <div align="center">
 <i>Currently building small tools & exploring backend engineering and blockchain ecosystems. Check out the repos below — you might find something useful.</i>
 
