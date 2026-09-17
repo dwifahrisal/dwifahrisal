@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="420" height="220">
+  <defs>
+    <style>
+      @keyframes glow {
+        0%,100% { opacity:1; text-shadow: 0 0 8px #2dd4bf; }
+        50% { opacity:0.6; text-shadow: 0 0 24px #2dd4bf; }
+      }
+      @keyframes float {
+        0%,100% { transform: translateY(0px); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(-220px); }
+        100% { transform: translateY(220px); }
+      }
+      .bg { fill: #0d1117; }
+      .eth { font-family: 'Courier New', monospace; font-size: 13px; fill: #2dd4bf; font-weight: bold; animation: glow 2.5s ease-in-out infinite, float 3s ease-in-out infinite; }
+      .label { font-family: 'Courier New', monospace; font-size: 11px; fill: #14b8a6; letter-spacing: 4px; }
+      .scan { fill: rgba(45,212,191,0.04); width: 420px; height: 30px; animation: scanline 3s linear infinite; }
+      .border { fill: none; stroke: #2dd4bf; stroke-width: 1; opacity: 0.4; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="420" height="220" rx="8"/>
+  <!-- border -->
+  <rect class="border" x="4" y="4" width="412" height="212" rx="6"/>
+
+  <!-- scanline effect -->
+  <rect class="scan" x="0" y="0"/>
+
+  <!-- ETH ASCII art, centered -->
+  <text class="eth" x="210" y="36"  text-anchor="middle">        /\</text>
+  <text class="eth" x="210" y="54"  text-anchor="middle">       /  \</text>
+  <text class="eth" x="210" y="72"  text-anchor="middle">      / ◆  \</text>
+  <text class="eth" x="210" y="90"  text-anchor="middle">     /      \</text>
+  <text class="eth" x="210" y="108" text-anchor="middle">    /________\</text>
+  <text class="eth" x="210" y="126" text-anchor="middle">    \        /</text>
+  <text class="eth" x="210" y="144" text-anchor="middle">     \ ◆◆◆ /</text>
+  <text class="eth" x="210" y="162" text-anchor="middle">      \    /</text>
+  <text class="eth" x="210" y="180" text-anchor="middle">       \  /</text>
+  <text class="eth" x="210" y="198" text-anchor="middle">        \/</text>
+
+  <!-- label -->
+  <text class="label" x="210" y="218" text-anchor="middle">ETHEREUM</text>
+</svg>
