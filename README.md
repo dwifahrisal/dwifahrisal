@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hallo, saya dwifahrisal
+# 👋 Hi, I'm dwifahrisal
 
 **Backend Developer & Blockchain Explorer**
 
@@ -32,7 +32,13 @@
 
 ---
 
-### 📌 Pin
+### 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=dwifahrisal&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+
+---
+
+### 📌 Pinned Projects
+
 <div align="left">
 
 </div>
@@ -40,7 +46,7 @@
 ---
 
 <div align="center">
-<i>Sekarang: lagi iseng bangun tool kecil-kecil — backend & web3. Mampir ke repo, siapa tahu ada yang berguna 🙌</i>
+<i>Currently building small tools & exploring backend engineering and blockchain ecosystems. Check out the repos below — you might find something useful.</i>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dwifahrisal&color=2dd4bf&style=flat)
 </div>
