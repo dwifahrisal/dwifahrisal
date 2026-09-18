@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=2DD4BF&center=true&vCenter=true&width=520&lines=Hi+I%27m+dwifahrisal+%F0%9F%91%8B;Backend+Developer;Blockchain+%26+Web3+Explorer;Python+%26+Node.js+Engineer" alt="Typing SVG" />
+## Hi, I'm dwifahrisal 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=2DD4BF&center=true&vCenter=true&width=520&lines=Backend+Developer;Blockchain+%26+Web3+Explorer;Python+%26+Node.js+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -37,8 +39,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-theta-red.vercel.app/api?username=dwifahrisal&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats"/>
-<img src="https://github-readme-stats-theta-red.vercel.app/api/top-langs/?username=dwifahrisal&layout=compact&theme=radical&hide_border=true" height="170" alt="top langs"/>
+<img src="https://gh-readme-stats.vercel.app/api?username=dwifahrisal&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats"/>
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dwifahrisal&layout=compact&theme=radical&hide_border=true" height="170" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=dwifahrisal&theme=radical&hide_border=true" alt="streak" />
 
