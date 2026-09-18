@@ -2,20 +2,20 @@
 
 ## Hi, I'm dwifahrisal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=2DD4BF&center=true&vCenter=true&width=520&lines=Backend+Developer;Blockchain+%26+Web3+Explorer;Python+%26+Node.js+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=f472b6&center=true&vCenter=true&width=520&lines=Backend+Developer;Blockchain+%26+Web3+Explorer;Python+%26+Node.js+Engineer" alt="Typing SVG" />
 
 <br/>
 
 <!-- Ethereum ASCII animation -->
-<img src="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/main/assets/eth-ascii.svg" width="380" alt="Ethereum ASCII" />
+<img src="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/main/assets/eth-ascii.svg" width="480" alt="Ethereum ASCII" />
 
 ---
 
-<!-- Snake eating the green contribution squares -->
+<!-- Pacman eating contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/pacman-contribution-graph-light.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/dwifahrisal/dwifahrisal/output/pacman-contribution-graph.svg" />
 </picture>
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=dwifahrisal&color=2dd4bf&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=dwifahrisal&color=f472b6&style=flat" alt="profile views" />
 
 *Building backend systems and exploring the blockchain ecosystem — one commit at a time.*
 
